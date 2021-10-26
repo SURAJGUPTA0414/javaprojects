@@ -6,7 +6,7 @@ public class LoopDemo {
 
 //		for (int i = 1; i <= 10; i++) {
 //			System.out.println(i);
-//		} ABCD
+//		}
 
 		int j = 20;
 		while (j <= 10) {
