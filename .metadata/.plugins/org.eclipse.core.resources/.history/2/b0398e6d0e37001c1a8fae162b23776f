@@ -22,7 +22,7 @@ public class App {
 		empList.add(new Employee(103, "Tonu", 40.6));
 		empList.add(new Employee(104, "Ponu", 30.6));
 
-		System.out.println("Before sort");
+		System.out.println("Nefore sort");
 
 		for (Employee e : empList) {
 			System.out.println(e.toString());
