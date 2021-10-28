@@ -1,4 +1,4 @@
-package Labbook.module1;
+package Labbook1;
 
 
 public class Exercise3 {

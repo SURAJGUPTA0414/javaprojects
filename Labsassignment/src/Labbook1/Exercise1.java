@@ -1,4 +1,4 @@
-package Labbook.module1;
+package Labbook1;
 
 public class Exercise1{
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Labbook.module1;
+package Labbook1;
 
 
 import java.util.Scanner;
